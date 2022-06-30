@@ -1,6 +1,6 @@
 - 👋 hello, i'm blulere
-- 👀 i'm interested in coding c++, javascript and processing
-- 🌱 i'm currently learning how to make useful projects
+- 👀 i'm interested in coding c++, javascript, java and golang
+- 🌱 i'm currently learning how to make useful projects :L
 - 💞️ i'm looking to collaborate on anything that i might need help on :P
 - 📫 you can reach me from my linktree -- https://linktr.ee/blulere
 
