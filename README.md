@@ -1,8 +1,8 @@
 - 👋 hello, i'm blulere
-- 👀 i'm interested in coding c++, javascript, java and golang
-- 🌱 i'm currently learning how to make useful projects :L
+- 👀 i'm interested in coding in c++, javascript, golang, java and c#
+- 🌱 i'm currently learning how to make useful projects that can help people
 - 💞️ i'm looking to collaborate on anything that i might need help on :P
-- 📫 you can reach me from my linktree -- https://linktr.ee/blulere
+- 📫 you can reach me from my website -- https://blueblueteam.github.io
 
 <!---
 BlueBlueTeam/BlueBlueTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
