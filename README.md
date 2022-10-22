@@ -1,5 +1,5 @@
 - 👋 hello, i'm blulere
-- 👀 i'm interested in coding in java, go, python, c++, html, css and javascript
+- 👀 i'm interested in coding in lua, java, go, python, c++, html, css and javascript
 - 🌱 i'm currently learning how to make useful projects that can help people
 - 💞️ i'm looking to collaborate on anything that i might need help on :P
 - 📫 you can reach me from my website -- https://blulere.epizy.com/
