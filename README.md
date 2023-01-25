@@ -1,7 +1,7 @@
 - 👋 hello, i'm blulere
 - 👀 i'm interested in coding in c, go, c#, c++, python, java, html, css and javascript
 - 🌱 i'm currently learning how to make useful projects that can help make life less tedious
-- 💞️ i'm looking to collaborate on anything i can work on :P
+- 💞️ i'm looking to collaborate on anything i can work on :3
 - 📫 you can reach me from my website -- https://linktr.ee/blulere
 
 <!---
