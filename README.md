@@ -1,9 +1,26 @@
-- 👋 hello, i'm blulere
-- 👀 i code in golang, python, js, html and css
--    (this list is in order of skill, and is changed semi-frequently)
-- 🌱 i'm currently learning how to make useful projects that can help make life less tedious
-- 💞️ i'm looking to collaborate on anything i can work on :3
-- 📫 you can reach me from my linktr.ee -- https://linktr.ee/blulere
+# i do stuff, i guess.
+
+- hello, i'm **blulere**
+
+---
+
+#### 👩‍💻 i'm fluent in...
+1. python
+2. golang
+3. p5.js
+3. javascript + html + css
+
+#### 🛠 i can work in...
+- full stack development
+- back-end development
+
+#### ⌨ what i'm working on
+- i'm **not working on much** right now other than some personal projects
+- but **i'd love to work on a few projects someday** !
+
+#### 📞 contact me
+- you can contact me from my linktr\.ee -- https://linktr.ee/blulere
+- - (here you can also see the other stuff i do)
 
 <!---
 BlueBlueTeam/BlueBlueTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
