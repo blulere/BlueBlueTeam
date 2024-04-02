@@ -20,7 +20,7 @@
 
 #### 📞 contact me
 - you can contact me from my linktr\.ee -- https://linktr.ee/blulere
-- - (here you can also see the other stuff i do)
+- - (there you can also see the other stuff i do)
 
 <!---
 BlueBlueTeam/BlueBlueTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
