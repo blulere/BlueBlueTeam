@@ -7,19 +7,17 @@
 #### 👩‍💻 i'm fluent in...
 1. python
 2. golang
-3. p5.js
-3. javascript + html + css
+3. gdscript
 
 #### 🛠 i can work in...
 - full stack development
 - back-end development
 
 #### ⌨ what i'm working on
-- i'm **not working on much** right now other than some personal projects
-- but **i'd love to work on a few projects someday** !
+- currently i'm working on **urg**, a racing game made in Godot Engine, and **2sm**, a telegram bot focused on self hosted LLMs
 
 #### 📞 contact me
-- you can contact me from my linktr\.ee -- https://linktr.ee/blulere
+- you can find my contact info from my linktr\.ee -- https://linktr.ee/blulere
 - - (there you can also see the other stuff i do)
 
 <!---
