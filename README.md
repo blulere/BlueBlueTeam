@@ -6,8 +6,8 @@
 
 #### 👩‍💻 i'm fluent in...
 1. python
-2. golang
-3. gdscript
+2. gdscript
+3. golang
 
 #### 🛠 i can work in...
 - full stack development
